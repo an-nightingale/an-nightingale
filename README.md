@@ -5,7 +5,7 @@
 <ul>
   <li>Information Systems and Technologies student :mortar_board:</li>
   <li>Currently learning web-development and 3D modeling :computer:</li>
-  <li>Speaks Russian(native) and English(B2-C1) :loud_sound:	</li>
+  <li>Speaks Russian (native) and English (B2-C1) :loud_sound:	</li>
   <li>Has experience in translating a video game's bonus content :video_game:</li>
 </ul>
 </div>
